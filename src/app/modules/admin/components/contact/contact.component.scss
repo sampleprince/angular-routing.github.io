@@ -1,0 +1,124 @@
+.contact {
+    margin-top: 50px;
+    padding-left: 20rem;
+    background-color: rgb(114, 183, 214);
+    margin-top: -800px;
+    padding-bottom: 10%;
+}
+
+.my-contact h1 {
+    font-size: 125px;
+    opacity: 0.08;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.my-contact p {
+    font-size: 35px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.address-details {
+    display: flex;
+    margin-top: 80px;
+}
+
+.address {
+    width: 20%;
+}
+
+.add-head {
+    font-size: 25px;
+}
+
+.address-form {
+    width: 70%;
+}
+
+.add-para {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.btn-message {
+    font-size: 20px;
+    border-radius: 25px;
+    width: 200px;
+    height: 50px;
+    background: none;
+    color: #fff;
+    background-color: #20c997;
+    border: 3px solid #20c997;
+    margin-top: 10px;
+    cursor: pointer;
+    margin-left: 220px;
+}
+
+.btn-message:hover {
+    background-color: #057d59;
+    border: none;
+    color: #fff;
+}
+
+.call-num {
+    margin-top: 20px;
+}
+
+.call-num span {
+    padding-right: 10px;
+}
+
+.address-details .social {
+    margin-top: 40px;
+}
+
+.address-details .social h3 {
+    font-size: 25px;
+}
+
+.social-image {
+    margin-top: 20px;
+}
+
+.social-image img {
+    width: 10%;
+    height: 20%;
+    cursor: pointer;
+}
+
+.social-image1 {
+    margin-left: 20px;
+}
+
+.address-form {
+    margin-left: 100px;
+}
+
+.address-form input {
+    margin-top: 20px;
+    height: 50px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #dae1e3;
+}
+
+.address-form input::placeholder {
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.address-form .input-email {
+    margin-left: 20px;
+}
+
+.address-form textarea {
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid #dae1e3;
+}
+
+.address-form textarea::placeholder {
+    padding-left: 20px;
+    font-size: 20px;
+}

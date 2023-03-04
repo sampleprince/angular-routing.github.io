@@ -1,0 +1,107 @@
+section {
+    padding: 1rem 5%;
+    min-height: 100vh;
+    margin-top: -800px;
+}
+
+.about-content h1 {
+    font-size: 125px;
+    opacity: 0.08;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.about-content p {
+    font-size: 35px;
+    text-align: center;
+    margin-top: -120px;
+    margin-left: 30%;
+}
+
+.col-4 {
+    width: 25%;
+}
+
+.about-developer {
+    display: flex;
+}
+
+.para-content {
+    width: 65%;
+}
+
+.para-content h2 {
+    font-size: 25px;
+    padding-top: 60px;
+    margin-left: 45%;
+}
+
+.para-content span {
+    color: #20c997;
+    margin-left: 30%;
+}
+
+.para-content p {
+    padding-top: 10px;
+    font-size: 16px;
+    gap: 10px;
+    text-align: left;
+    margin-left: 45%;
+}
+
+.developer-data {
+    margin-top: 60px;
+    margin-left: 10%;
+}
+
+.developer-data p {
+    font-size: 20px;
+    padding-top: 10px;
+    margin-left: 10%;
+}
+
+.developer-data .gmail span {
+    color: #20c997;
+    margin-left: 30%;
+}
+
+.download-btn {
+    font-size: 20px;
+    border-radius: 25px;
+    width: 200px;
+    height: 50px;
+    background: none;
+    color: #fff;
+    border: 3px solid#20c997;
+    background-color: #20c997;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.download-btn:hover {
+    background-color: #069a6d;
+    border: none;
+}
+
+.experiance {
+    width: 100%;
+}
+
+.experiance .col-4 {
+    display: flex;
+}
+
+.experiance .col-4 .exper-1 {
+    margin-top: 40px;
+    margin-left: 70%;
+}
+
+.experiance .col-4 .exper-1 h1 {
+    font-size: 50px;
+    color: #6c757d;
+}
+
+.experiance .col-4 .exper-1 p {
+    font-size: 20px;
+    color: #6c757d;
+}

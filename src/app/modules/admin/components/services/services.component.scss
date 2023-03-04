@@ -1,0 +1,59 @@
+* {
+    padding-left: 5rem;
+}
+
+.service {
+    background-color: #ddd;
+    margin-top: -790px;
+}
+
+.service-content h1 {
+    font-size: 125px;
+    opacity: 0.08;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.service-content p {
+    font-size: 45px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.row-skill {
+    width: 100%;
+    display: flex;
+}
+
+.row-skill .col-2 {
+    width: 50%;
+}
+
+.row-skill .col-2 .graphic {
+    padding-top: 50px;
+}
+
+.graphic-head {
+    float: right;
+    padding-left: 10px;
+}
+
+.graphic-head h4 {
+    font-size: 25px;
+    padding: 10px;
+    margin-left: -10px;
+}
+
+.graphic-head p {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.graphic-head .h4 {
+    margin-left: 18%;
+}
+
+.graphic-head .p {
+    margin-left: 18%;
+}
